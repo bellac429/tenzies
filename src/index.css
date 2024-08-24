@@ -3,6 +3,7 @@
 }
 
 body {
+
   margin: 0;
   background-color: #0B2434;
   padding: 20px;
@@ -12,7 +13,7 @@ body {
 main {
   background-color: #F5F5F5;
   height: 400px;
-  max-width: 800px;
+  max-width: 900px;
   border-radius: 5px;
   padding: 20px;
   display: flex;
@@ -45,7 +46,7 @@ main {
 
 .roll-dice {
   height: 50px;
-  width: 100px;
+  width: 200px;
   border: none;
   border-radius: 6px;
   background-color: #5035FF;
@@ -68,7 +69,7 @@ main {
   gap: 0px;
   opacity: 0px;
   font-family: Karla;
-  font-size: 30px;
+  font-size: 35px;
   font-weight: 700;
   line-height: 29.93px;
   letter-spacing: -0.03em;
@@ -77,13 +78,15 @@ main {
 } 
 
 .instructions {
+  margin-top: 10px;
+  margin-bottom: 30px;
   width: 232.96px;
   height: 48px;
   top: -9px;
   gap: 0px;
   opacity: 0px;
   font-family: Inter;
-  font-size: 13.11px;
+  font-size: 14.5px;
   font-weight: 400;
   line-height: 15.86px;
   letter-spacing: -0.03em;
